@@ -11,4 +11,4 @@ class App extends React.Component {
 const AppWithHot = hot(module)(App);
 
 var mountNode = document.getElementById("app");
-ReactDOM.render(<AppWithHot name="Timothy" />, mountNode);
+ReactDOM.render(<AppWithHot name="You" />, mountNode);
