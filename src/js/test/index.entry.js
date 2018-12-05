@@ -1,0 +1,1 @@
+const firstConst = 'Hello wrold';
